@@ -1,0 +1,172 @@
+[
+  {
+    "estado": "PR",
+    "compra": "90.00",
+    "venda": "90.50"
+  },
+  {
+    "estado": "PR",
+    "compra": "83.00",
+    "venda": "83.50"
+  },
+  {
+    "estado": "PR",
+    "compra": "84.00",
+    "venda": "84.50"
+  },
+  {
+    "estado": "PR",
+    "compra": "83.00",
+    "venda": "83.50"
+  },
+  {
+    "estado": "PR",
+    "compra": "87.00",
+    "venda": "87.50"
+  },
+  {
+    "estado": "PR",
+    "compra": "86.00",
+    "venda": "86.50"
+  },
+  {
+    "estado": "SP",
+    "compra": "90.50",
+    "venda": "91.00"
+  },
+  {
+    "estado": "SP",
+    "compra": "90.50",
+    "venda": "91.00"
+  },
+  {
+    "estado": "SP",
+    "compra": "83.93",
+    "venda": "84.43"
+  },
+  {
+    "estado": "SP",
+    "compra": "81.30",
+    "venda": "81.80"
+  },
+  {
+    "estado": "MS",
+    "compra": "72.00",
+    "venda": "72.50"
+  },
+  {
+    "estado": "MS",
+    "compra": "73.00",
+    "venda": "73.50"
+  },
+  {
+    "estado": "MS",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "MS",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "MT",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "MT",
+    "compra": "68.00",
+    "venda": "68.50"
+  },
+  {
+    "estado": "MT",
+    "compra": "64.50",
+    "venda": "65.00"
+  },
+  {
+    "estado": "MT",
+    "compra": "63.00",
+    "venda": "63.50"
+  },
+  {
+    "estado": "MT",
+    "compra": "63.00",
+    "venda": "63.50"
+  },
+  {
+    "estado": "MT",
+    "compra": "63.00",
+    "venda": "63.50"
+  },
+  {
+    "estado": "GO",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "GO",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "MG",
+    "compra": "74.00",
+    "venda": "74.50"
+  },
+  {
+    "estado": "MG",
+    "compra": "74.00",
+    "venda": "74.50"
+  },
+  {
+    "estado": "MG",
+    "compra": "67.50",
+    "venda": "68.00"
+  },
+  {
+    "estado": "MG",
+    "compra": "74.00",
+    "venda": "74.50"
+  },
+  {
+    "estado": "SC",
+    "compra": "93.00",
+    "venda": "93.50"
+  },
+  {
+    "estado": "SC",
+    "compra": "93.00",
+    "venda": "93.50"
+  },
+  {
+    "estado": "SC",
+    "compra": "93.50",
+    "venda": "94.00"
+  },
+  {
+    "estado": "SC",
+    "compra": "88.00",
+    "venda": "88.50"
+  },
+  {
+    "estado": "RS",
+    "compra": "88.50",
+    "venda": "89.00"
+  },
+  {
+    "estado": "RS",
+    "compra": "88.50",
+    "venda": "89.00"
+  },
+  {
+    "estado": "RS",
+    "compra": "94.50",
+    "venda": "95.00"
+  },
+  {
+    "estado": "BA",
+    "compra": "72.00",
+    "venda": "72.50"
+  }
+]

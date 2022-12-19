@@ -1,0 +1,206 @@
+[
+  {
+    "estado": "PR",
+    "cidade": "Paranaguá",
+    "compra": "89.50",
+    "venda": "90.00"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Campo Mourão",
+    "compra": "82.50",
+    "venda": "83.00"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Cascavel",
+    "compra": "83.50",
+    "venda": "84.00"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Maringá",
+    "compra": "82.50",
+    "venda": "83.00"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Ponta Grossa",
+    "compra": "86.50",
+    "venda": "87.00"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Guarapuava",
+    "compra": "85.50",
+    "venda": "86.00"
+  },
+  {
+    "estado": "SP",
+    "cidade": "São Paulo",
+    "compra": "90.00",
+    "venda": "90.50"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Campinas",
+    "compra": "90.00",
+    "venda": "90.50"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Sorocaba",
+    "compra": "83.89",
+    "venda": "84.39"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Mogiana",
+    "compra": "80.80",
+    "venda": "81.30"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Campo Grande",
+    "compra": "71.50",
+    "venda": "72.00"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Dourados",
+    "compra": "72.50",
+    "venda": "73.00"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Chapadão do Sul",
+    "compra": "70.50",
+    "venda": "71.00"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Costa Rica",
+    "compra": "70.50",
+    "venda": "71.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Rondonópolis",
+    "compra": "70.50",
+    "venda": "71.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Campo Verde",
+    "compra": "67.50",
+    "venda": "68.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Tangará da Serra",
+    "compra": "64.00",
+    "venda": "64.50"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Sapezal",
+    "compra": "62.50",
+    "venda": "63.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Sorriso",
+    "compra": "62.50",
+    "venda": "63.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Lucas do Rio Verde",
+    "compra": "62.50",
+    "venda": "63.00"
+  },
+  {
+    "estado": "GO",
+    "cidade": "Itumbiara",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "GO",
+    "cidade": "Rio Verde",
+    "compra": "71.00",
+    "venda": "71.50"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Uberaba",
+    "compra": "73.50",
+    "venda": "74.00"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Uberlândia",
+    "compra": "73.50",
+    "venda": "74.00"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Unaí",
+    "compra": "67.00",
+    "venda": "67.50"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Patos de Minas",
+    "compra": "73.50",
+    "venda": "74.00"
+  },
+  {
+    "estado": "SC",
+    "cidade": "Chapecó",
+    "compra": "92.50",
+    "venda": "93.00"
+  },
+  {
+    "estado": "SC",
+    "cidade": "Concordia",
+    "compra": "92.50",
+    "venda": "93.00"
+  },
+  {
+    "estado": "SC",
+    "cidade": "Campos Novos",
+    "compra": "93.00",
+    "venda": "93.50"
+  },
+  {
+    "estado": "SC",
+    "cidade": "Canoinhas",
+    "compra": "87.50",
+    "venda": "88.00"
+  },
+  {
+    "estado": "RS",
+    "cidade": "Erechim",
+    "compra": "88.00",
+    "venda": "88.50"
+  },
+  {
+    "estado": "RS",
+    "cidade": "Passo Fundo",
+    "compra": "88.00",
+    "venda": "88.50"
+  },
+  {
+    "estado": "RS",
+    "cidade": "Porto Alegre",
+    "compra": "94.00",
+    "venda": "94.50"
+  },
+  {
+    "estado": "BA",
+    "cidade": "Luis Eduardo Magalhães",
+    "compra": "72.00",
+    "venda": "72.50"
+  }
+]

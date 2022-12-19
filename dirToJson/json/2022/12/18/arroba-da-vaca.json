@@ -1,0 +1,194 @@
+[
+  {
+    "estado": "SP",
+    "regiao": "Barretos",
+    "avista": "276.00",
+    "aprazo": "278.00"
+  },
+  {
+    "estado": "SP",
+    "regiao": "Araçatuba",
+    "avista": "276.00",
+    "aprazo": "278.00"
+  },
+  {
+    "estado": "MG",
+    "regiao": "Triângulo",
+    "avista": "269.00",
+    "aprazo": "271.00"
+  },
+  {
+    "estado": "MG",
+    "regiao": "B.Horizonte",
+    "avista": "283.50",
+    "aprazo": "285.50"
+  },
+  {
+    "estado": "MG",
+    "regiao": "Norte",
+    "avista": "259.00",
+    "aprazo": "261.00"
+  },
+  {
+    "estado": "MG",
+    "regiao": "Sul",
+    "avista": "276.00",
+    "aprazo": "278.00"
+  },
+  {
+    "estado": "GO",
+    "regiao": "Goiânia",
+    "avista": "271.00",
+    "aprazo": "273.00"
+  },
+  {
+    "estado": "GO",
+    "regiao": "Reg. Sul",
+    "avista": "270.00",
+    "aprazo": "272.00"
+  },
+  {
+    "estado": "MS",
+    "regiao": "Dourados",
+    "avista": "264.00",
+    "aprazo": "266.00"
+  },
+  {
+    "estado": "MS",
+    "regiao": "C. Grande",
+    "avista": "259.00",
+    "aprazo": "261.00"
+  },
+  {
+    "estado": "MS",
+    "regiao": "Três Lagoas",
+    "avista": "251.00",
+    "aprazo": "253.00"
+  },
+  {
+    "estado": "RS",
+    "regiao": "Oeste**",
+    "avista": "8.95",
+    "aprazo": "9.05"
+  },
+  {
+    "estado": "RS",
+    "regiao": "Pelotas**",
+    "avista": "8.95",
+    "aprazo": "9.05"
+  },
+  {
+    "estado": "BA",
+    "regiao": "Sul",
+    "avista": "279.00",
+    "aprazo": "280.50"
+  },
+  {
+    "estado": "BA",
+    "regiao": "Oeste",
+    "avista": "279.00",
+    "aprazo": "280.50"
+  },
+  {
+    "estado": "MT",
+    "regiao": "Norte",
+    "avista": "249.00",
+    "aprazo": "251.00"
+  },
+  {
+    "estado": "MT",
+    "regiao": "Sudoeste",
+    "avista": "249.00",
+    "aprazo": "251.00"
+  },
+  {
+    "estado": "MT",
+    "regiao": "Cuiabá*",
+    "avista": "249.00",
+    "aprazo": "251.00"
+  },
+  {
+    "estado": "MT",
+    "regiao": "Sudeste",
+    "avista": "252.00",
+    "aprazo": "254.00"
+  },
+  {
+    "estado": "PR",
+    "regiao": "Noroeste",
+    "avista": "276.00",
+    "aprazo": "278.00"
+  },
+  {
+    "estado": "SC",
+    "regiao": "SC",
+    "avista": "288.50",
+    "aprazo": "290.50"
+  },
+  {
+    "estado": "MA",
+    "regiao": "Oeste",
+    "avista": "265.00",
+    "aprazo": "267.00"
+  },
+  {
+    "estado": "Alagoas",
+    "regiao": "Alagoas",
+    "avista": "290.50",
+    "aprazo": "292.50"
+  },
+  {
+    "estado": "PA",
+    "regiao": "Marabá",
+    "avista": "253.00",
+    "aprazo": "255.00"
+  },
+  {
+    "estado": "PA",
+    "regiao": "Redenção",
+    "avista": "250.00",
+    "aprazo": "252.00"
+  },
+  {
+    "estado": "PA",
+    "regiao": "Paragominas",
+    "avista": "259.00",
+    "aprazo": "261.00"
+  },
+  {
+    "estado": "RO",
+    "regiao": "Sudeste",
+    "avista": "234.50",
+    "aprazo": "236.50"
+  },
+  {
+    "estado": "TO",
+    "regiao": "Sul",
+    "avista": "264.00",
+    "aprazo": "266.00"
+  },
+  {
+    "estado": "TO",
+    "regiao": "Norte",
+    "avista": "269.00",
+    "aprazo": "271.00"
+  },
+  {
+    "estado": "Acre",
+    "regiao": "Acre",
+    "avista": "239.50",
+    "aprazo": "241.50"
+  },
+  {
+    "estado": "ES",
+    "regiao": "ES",
+    "avista": "266.00",
+    "aprazo": "268.00"
+  },
+  {
+    "estado": "RJ",
+    "regiao": "RJ",
+    "avista": "281.50",
+    "aprazo": "283.50"
+  }
+]
