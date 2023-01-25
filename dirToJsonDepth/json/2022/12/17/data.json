@@ -1,0 +1,200 @@
+[
+  {
+    "estado": "PR",
+    "cidade": "Paranaguá",
+    "compra": "186.00",
+    "venda": "186.50"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Ponta Grossa",
+    "compra": "184.00",
+    "venda": "184.50"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Norte",
+    "compra": "184.00",
+    "venda": "184.50"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Oeste",
+    "compra": "180.00",
+    "venda": "180.50"
+  },
+  {
+    "estado": "PR",
+    "cidade": "Sudoestes",
+    "compra": "180.00",
+    "venda": "180.50"
+  },
+  {
+    "estado": "RS",
+    "cidade": "Rio Grande",
+    "compra": "191.00",
+    "venda": "191.50"
+  },
+  {
+    "estado": "RS",
+    "cidade": "Missões",
+    "compra": "182.00",
+    "venda": "182.50"
+  },
+  {
+    "estado": "RS",
+    "cidade": "Planalto Central",
+    "compra": "182.00",
+    "venda": "182.50"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Cuiabá",
+    "compra": "166.50",
+    "venda": "167.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Rondonópolis",
+    "compra": "166.50",
+    "venda": "167.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Primavera",
+    "compra": "164.00",
+    "venda": "164.50"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Canarana",
+    "compra": "157.50",
+    "venda": "158.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Sorriso",
+    "compra": "160.00",
+    "venda": "160.50"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Lucas do Rio Verde",
+    "compra": "160.50",
+    "venda": "161.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Campo Novo dos Parecis",
+    "compra": "160.50",
+    "venda": "161.00"
+  },
+  {
+    "estado": "MT",
+    "cidade": "Sapezal",
+    "compra": "160.50",
+    "venda": "161.00"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Campo Grande",
+    "compra": "168.00",
+    "venda": "168.50"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Dourados",
+    "compra": "170.00",
+    "venda": "170.50"
+  },
+  {
+    "estado": "MS",
+    "cidade": "S.G. Oeste",
+    "compra": "168.00",
+    "venda": "168.50"
+  },
+  {
+    "estado": "MS",
+    "cidade": "Chapadão do Sul",
+    "compra": "169.00",
+    "venda": "169.50"
+  },
+  {
+    "estado": "DF",
+    "cidade": "Brasília",
+    "compra": "161.50",
+    "venda": "162.00"
+  },
+  {
+    "estado": "GO",
+    "cidade": "Mineiros",
+    "compra": "166.00",
+    "venda": "166.50"
+  },
+  {
+    "estado": "GO",
+    "cidade": "Rio Verde",
+    "compra": "167.00",
+    "venda": "167.50"
+  },
+  {
+    "estado": "GO",
+    "cidade": "Jataí",
+    "compra": "166.00",
+    "venda": "166.50"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Santos",
+    "compra": "186.00",
+    "venda": "186.50"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Rancharia",
+    "compra": "181.00",
+    "venda": "181.50"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Ourinhos",
+    "compra": "181.00",
+    "venda": "181.50"
+  },
+  {
+    "estado": "SP",
+    "cidade": "Orlândia",
+    "compra": "181.00",
+    "venda": "181.50"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Uberlândia",
+    "compra": "165.50",
+    "venda": "166.00"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Uberaba",
+    "compra": "165.50",
+    "venda": "166.00"
+  },
+  {
+    "estado": "MG",
+    "cidade": "Unaí",
+    "compra": "161.50",
+    "venda": "162.00"
+  },
+  {
+    "estado": "BA",
+    "cidade": "Luis Eduardo Magalhães",
+    "compra": "173.00",
+    "venda": "173.50"
+  },
+  {
+    "estado": "MA",
+    "cidade": "Balsas",
+    "compra": "171.00",
+    "venda": "171.50"
+  }
+]

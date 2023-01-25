@@ -1,0 +1,13 @@
+{
+  "name": "dirtojsondepth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Salies Brum <sistematico@gmail.com>",
+  "license": "MIT"
+}
